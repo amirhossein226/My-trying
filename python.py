@@ -6,7 +6,4 @@ name = input("whats your name?")
 
 print(f"Hello {name} with age {age}.")
 
-for i in range(age):
-    print("Hello")
 
- 
